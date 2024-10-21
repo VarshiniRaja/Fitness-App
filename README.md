@@ -22,3 +22,5 @@ Cardio Side:
 ![image](https://github.com/user-attachments/assets/2a8e5cfc-1883-4ba7-9e1d-470c6744a136)
 
 ![image](https://github.com/user-attachments/assets/e646067f-badb-469c-82d1-2dd9c6840008)
+
+![image](https://github.com/user-attachments/assets/0cee2b8b-2fa1-4540-b263-2bd8b2128234)
