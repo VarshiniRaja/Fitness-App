@@ -1,6 +1,7 @@
 # Fitness-App
 This is an android exercise which implements User Interface and concepts like multiple activities
 These are the output screenshots of the application:
+
 Home page:
 
 ![image](https://github.com/user-attachments/assets/0c39bff3-b868-40d3-a7be-3bcdcf4cb6cb)
